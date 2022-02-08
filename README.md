@@ -4,4 +4,4 @@
 - 😃 闲的没事就写写自己的[小博客](https://kenvie.com)
 - 📫 我的邮箱地址是： 7097341@qq.com
 
-![Kenvie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpt-kenvie&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cpt-kenvie&show_icons=true">
