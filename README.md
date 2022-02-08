@@ -5,6 +5,4 @@
 - 📫 我的邮箱地址是： 7097341@qq.com
 
 
-  <a href="https://github.com/cpt-kenvie">  <!--statics主页地址，可修改-->
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cpt-kenvie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>   
-  <a/>
+![Kenvie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpt-kenvie&show_icons=true)
